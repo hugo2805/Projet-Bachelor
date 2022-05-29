@@ -1,0 +1,293 @@
+----IL2CPP Arguments----
+--convert-to-cpp --enable-array-bounds-check --dotnetprofile=unityaot --compile-cpp --platform=Switch --architecture=ARM64 --configuration=Release --outputpath=C:\Users\eitel\Desktop\Recherche Projet Bachelor\Projet_Bachelor\Library/Il2cppBuildCache/Switch\Native\SwitchPlayer.nss --cachedirectory=C:/Users/eitel/Desktop/Recherche Projet Bachelor/Projet_Bachelor/Assets/../SwitchIL2CPPCache/il2cpp_cache --linker-flags=-lC:\Users\eitel\Desktop\Recherche Projet Bachelor\Projet_Bachelor\Temp\StagingArea\NativePlugins\NintendoSDKPlugin.a -n"C:\Users\eitel\Desktop\Recherche Projet Bachelor\Projet_Bachelor\Temp\StagingArea\Application.aarch64.lp64.nmeta" --plugin=C:/Program Files/Unity/2020.3.11f1/Editor/Data/PlaybackEngines/Switch/Tools\Il2CppPlugin.dll --additional-include-directories=C:\Program Files\Unity\2020.3.11f1\Editor\Data\PlaybackEngines\Switch\Tools/il2cpp\bdwgc/include --additional-include-directories=C:\Program Files\Unity\2020.3.11f1\Editor\Data\PlaybackEngines\Switch\Tools/il2cpp\libil2cpp/include --baselib-directory=C:\Program Files\Unity\2020.3.11f1\Editor\Data\PlaybackEngines\Switch\Native\release --avoid-dynamic-library-copy --verbose --enable-stats --stats-output-dir=C:/Users/eitel/Desktop/Recherche Projet Bachelor/Projet_Bachelor/Assets/../SwitchIL2CPPStats --libil2cpp-static --additional-defines=DEBUGMODE=0,UNITY_RELEASE=1,IL2CPP_USE_SOCKET_MULTIPLEX_IO=1 --additional-cpp=C:\Users\eitel\Desktop\Recherche Projet Bachelor\Projet_Bachelor\Temp\StagingArea\SourcePlugins\UnityAdsInitializationListener.h --additional-cpp=C:\Users\eitel\Desktop\Recherche Projet Bachelor\Projet_Bachelor\Temp\StagingArea\SourcePlugins\UnityAdsShowListener.h --additional-cpp=C:\Users\eitel\Desktop\Recherche Projet Bachelor\Projet_Bachelor\Temp\StagingArea\SourcePlugins\UnityAdsLoadListener.h --configuration=ReleasePlus --additional-cpp=C:/Users/eitel/Desktop/Recherche Projet Bachelor/Projet_Bachelor/Library/Il2cppBuildCache/Switch/additionalCppFiles/UnlinkedFunctions.cpp --profiler-report --map-file-parser=C:/Program Files/Unity/2020.3.11f1/Editor/Data/Tools/MapFileParser/MapFileParser.exe --directory=C:/Users/eitel/Desktop/Recherche Projet Bachelor/Projet_Bachelor/Temp/StagingArea/Managed --generatedcppdir=C:/Users/eitel/Desktop/Recherche Projet Bachelor/Projet_Bachelor/Library/Il2cppBuildCache/Switch/il2cppOutput
+
+----Assemblies Converted-----
+	C:\Users\eitel\Desktop\Recherche Projet Bachelor\Projet_Bachelor\Temp\StagingArea\Managed\Assembly-CSharp.dll
+	C:\Users\eitel\Desktop\Recherche Projet Bachelor\Projet_Bachelor\Temp\StagingArea\Managed\Mono.Security.dll
+	C:\Users\eitel\Desktop\Recherche Projet Bachelor\Projet_Bachelor\Temp\StagingArea\Managed\mscorlib.dll
+	C:\Users\eitel\Desktop\Recherche Projet Bachelor\Projet_Bachelor\Temp\StagingArea\Managed\System.Configuration.dll
+	C:\Users\eitel\Desktop\Recherche Projet Bachelor\Projet_Bachelor\Temp\StagingArea\Managed\System.Core.dll
+	C:\Users\eitel\Desktop\Recherche Projet Bachelor\Projet_Bachelor\Temp\StagingArea\Managed\System.dll
+	C:\Users\eitel\Desktop\Recherche Projet Bachelor\Projet_Bachelor\Temp\StagingArea\Managed\System.Xml.dll
+	C:\Users\eitel\Desktop\Recherche Projet Bachelor\Projet_Bachelor\Temp\StagingArea\Managed\Unity.ProBuilder.dll
+	C:\Users\eitel\Desktop\Recherche Projet Bachelor\Projet_Bachelor\Temp\StagingArea\Managed\Unity.ProBuilder.Examples.dll
+	C:\Users\eitel\Desktop\Recherche Projet Bachelor\Projet_Bachelor\Temp\StagingArea\Managed\Unity.ProBuilder.Poly2Tri.dll
+	C:\Users\eitel\Desktop\Recherche Projet Bachelor\Projet_Bachelor\Temp\StagingArea\Managed\Unity.Timeline.dll
+	C:\Users\eitel\Desktop\Recherche Projet Bachelor\Projet_Bachelor\Temp\StagingArea\Managed\UnityEngine.AIModule.dll
+	C:\Users\eitel\Desktop\Recherche Projet Bachelor\Projet_Bachelor\Temp\StagingArea\Managed\UnityEngine.AndroidJNIModule.dll
+	C:\Users\eitel\Desktop\Recherche Projet Bachelor\Projet_Bachelor\Temp\StagingArea\Managed\UnityEngine.AnimationModule.dll
+	C:\Users\eitel\Desktop\Recherche Projet Bachelor\Projet_Bachelor\Temp\StagingArea\Managed\UnityEngine.AssetBundleModule.dll
+	C:\Users\eitel\Desktop\Recherche Projet Bachelor\Projet_Bachelor\Temp\StagingArea\Managed\UnityEngine.AudioModule.dll
+	C:\Users\eitel\Desktop\Recherche Projet Bachelor\Projet_Bachelor\Temp\StagingArea\Managed\UnityEngine.CoreModule.dll
+	C:\Users\eitel\Desktop\Recherche Projet Bachelor\Projet_Bachelor\Temp\StagingArea\Managed\UnityEngine.DirectorModule.dll
+	C:\Users\eitel\Desktop\Recherche Projet Bachelor\Projet_Bachelor\Temp\StagingArea\Managed\UnityEngine.dll
+	C:\Users\eitel\Desktop\Recherche Projet Bachelor\Projet_Bachelor\Temp\StagingArea\Managed\UnityEngine.GridModule.dll
+	C:\Users\eitel\Desktop\Recherche Projet Bachelor\Projet_Bachelor\Temp\StagingArea\Managed\UnityEngine.ImageConversionModule.dll
+	C:\Users\eitel\Desktop\Recherche Projet Bachelor\Projet_Bachelor\Temp\StagingArea\Managed\UnityEngine.IMGUIModule.dll
+	C:\Users\eitel\Desktop\Recherche Projet Bachelor\Projet_Bachelor\Temp\StagingArea\Managed\UnityEngine.InputLegacyModule.dll
+	C:\Users\eitel\Desktop\Recherche Projet Bachelor\Projet_Bachelor\Temp\StagingArea\Managed\UnityEngine.InputModule.dll
+	C:\Users\eitel\Desktop\Recherche Projet Bachelor\Projet_Bachelor\Temp\StagingArea\Managed\UnityEngine.ParticleSystemModule.dll
+	C:\Users\eitel\Desktop\Recherche Projet Bachelor\Projet_Bachelor\Temp\StagingArea\Managed\UnityEngine.Physics2DModule.dll
+	C:\Users\eitel\Desktop\Recherche Projet Bachelor\Projet_Bachelor\Temp\StagingArea\Managed\UnityEngine.PhysicsModule.dll
+	C:\Users\eitel\Desktop\Recherche Projet Bachelor\Projet_Bachelor\Temp\StagingArea\Managed\UnityEngine.SharedInternalsModule.dll
+	C:\Users\eitel\Desktop\Recherche Projet Bachelor\Projet_Bachelor\Temp\StagingArea\Managed\UnityEngine.SpriteShapeModule.dll
+	C:\Users\eitel\Desktop\Recherche Projet Bachelor\Projet_Bachelor\Temp\StagingArea\Managed\UnityEngine.SubsystemsModule.dll
+	C:\Users\eitel\Desktop\Recherche Projet Bachelor\Projet_Bachelor\Temp\StagingArea\Managed\UnityEngine.SwitchModule.dll
+	C:\Users\eitel\Desktop\Recherche Projet Bachelor\Projet_Bachelor\Temp\StagingArea\Managed\UnityEngine.TerrainModule.dll
+	C:\Users\eitel\Desktop\Recherche Projet Bachelor\Projet_Bachelor\Temp\StagingArea\Managed\UnityEngine.TextRenderingModule.dll
+	C:\Users\eitel\Desktop\Recherche Projet Bachelor\Projet_Bachelor\Temp\StagingArea\Managed\UnityEngine.TilemapModule.dll
+	C:\Users\eitel\Desktop\Recherche Projet Bachelor\Projet_Bachelor\Temp\StagingArea\Managed\UnityEngine.UI.dll
+	C:\Users\eitel\Desktop\Recherche Projet Bachelor\Projet_Bachelor\Temp\StagingArea\Managed\UnityEngine.UIElementsNativeModule.dll
+	C:\Users\eitel\Desktop\Recherche Projet Bachelor\Projet_Bachelor\Temp\StagingArea\Managed\UnityEngine.UIModule.dll
+	C:\Users\eitel\Desktop\Recherche Projet Bachelor\Projet_Bachelor\Temp\StagingArea\Managed\UnityEngine.UnityWebRequestModule.dll
+	C:\Users\eitel\Desktop\Recherche Projet Bachelor\Projet_Bachelor\Temp\StagingArea\Managed\UnityEngine.VFXModule.dll
+	C:\Users\eitel\Desktop\Recherche Projet Bachelor\Projet_Bachelor\Temp\StagingArea\Managed\UnityEngine.VideoModule.dll
+	C:\Users\eitel\Desktop\Recherche Projet Bachelor\Projet_Bachelor\Temp\StagingArea\Managed\UnityEngine.VRModule.dll
+	C:\Users\eitel\Desktop\Recherche Projet Bachelor\Projet_Bachelor\Temp\StagingArea\Managed\UnityEngine.XRModule.dll
+
+----- il2cpp Statistics -----
+General:
+	Conversion Time: 9,995 s
+	Job Count: 12
+	Processor Count: 12
+	Files Written: 216
+	String Literals: 3801
+Methods:
+	Total Methods: 26355
+	Non-Generic Methods: 16270
+	Generic Type Methods: 7876
+	Generic Methods: 2209
+	Shared Methods: 10030
+	Methods with Tail Calls : 0
+Metadata:
+	Total: 2 130,57 kb
+	String Literals: 29,70 kb
+	String Literal Data: 95,71 kb
+	Metadata Strings: 349,45 kb
+	Events: 0,49 kb
+	Properties: 60,57 kb
+	Methods: 559,59 kb
+	Parameter Default Values: 1,39 kb
+	Field Default Values: 51,73 kb
+	Field and Parameter Default Values Data: 71,07 kb
+	Field Marshaled Sizes: 9,33 kb
+	Parameters: 237,68 kb
+	Fields: 135,90 kb
+	Generic Parameters: 7,25 kb
+	Generic Parameter Constraints: 0,53 kb
+	Generic Containers: 5,91 kb
+	Nested Types: 2,60 kb
+	Interfaces: 4,61 kb
+	VTables: 114,89 kb
+	Interface Offsets: 24,72 kb
+	Type Definitions: 259,10 kb
+	Images: 1,64 kb
+	Assemblies: 2,62 kb
+	Field Refs: 0,84 kb
+	Referenced Assemblies: 0,82 kb
+	Attribute Types Ranges: 52,48 kb
+	Attribute Types: 39,38 kb
+	Unresolved Virtual Call Parameter Types: 4,43 kb
+	Unresolved Virtual Call Parameter Ranges: 3,02 kb
+	Windows Runtime type names: 0,00 kb
+	Windows Runtime strings: 0,00 kb
+	Exported Types: 3,13 kb
+Codegen:
+	NullChecks : 0
+Interop:
+	Windows Runtime boxed types : 0
+	Windows Runtime types with names : 0
+	Native to managed interface adapters : 0
+	Array COM callable wrappers : 0
+	COM callable wrappers : 0
+	COM callable wrapper methods that were implemented : 0
+	COM callable wrapper methods that were stripped : 0
+	COM callable wrapper methods that were forwarded to call base class method : 0
+Compilation:
+	Total Files: 286
+	Files Compiled: 153
+	Cache Hits: 133
+	Cache Hit %: 46
+
+
+----Assembly Conversion Times----
+
+----Misc Timing----
+	PreProcessStage: None
+	GenericsCollector.Collect: None
+	WriteGenerics: None
+	AllAssemblyConversion: None
+
+----Generated Files----
+Assembly-CSharp.cpp	2785065
+Assembly-CSharp_Attr.cpp	220099
+Assembly-CSharp1.cpp	2059704
+Assembly-CSharp2.cpp	313131
+GenericMethods.cpp	2358675
+GenericMethods1.cpp	2844457
+GenericMethods2.cpp	1882468
+GenericMethods3.cpp	2622032
+GenericMethods4.cpp	224499
+Generics.cpp	1995265
+Generics1.cpp	2068867
+Generics10.cpp	1944674
+Generics11.cpp	1353513
+Generics2.cpp	1440265
+Generics3.cpp	3251953
+Generics4.cpp	1808248
+Generics5.cpp	2110622
+Generics6.cpp	3115832
+Generics7.cpp	1786466
+Generics8.cpp	1230293
+Generics9.cpp	1484591
+Il2CppCCalculateFieldValues.cpp	6135788
+Il2CppCCalculateTypeValues.cpp	5938977
+Il2CppCCFieldValuesTable.cpp	161731
+Il2CppCCTypeValuesTable.cpp	284420
+Il2CppCodeRegistration.cpp	6807
+Il2CppGenericAdjustorThunkTable.cpp	396300
+Il2CppGenericComDefinitions.cpp	173
+Il2CppGenericComDefinitions1.cpp	173
+Il2CppGenericComDefinitions10.cpp	173
+Il2CppGenericComDefinitions11.cpp	173
+Il2CppGenericComDefinitions12.cpp	173
+Il2CppGenericComDefinitions13.cpp	173
+Il2CppGenericComDefinitions14.cpp	173
+Il2CppGenericComDefinitions15.cpp	173
+Il2CppGenericComDefinitions16.cpp	173
+Il2CppGenericComDefinitions17.cpp	173
+Il2CppGenericComDefinitions18.cpp	173
+Il2CppGenericComDefinitions19.cpp	173
+Il2CppGenericComDefinitions2.cpp	173
+Il2CppGenericComDefinitions20.cpp	173
+Il2CppGenericComDefinitions21.cpp	173
+Il2CppGenericComDefinitions22.cpp	173
+Il2CppGenericComDefinitions23.cpp	173
+Il2CppGenericComDefinitions24.cpp	173
+Il2CppGenericComDefinitions25.cpp	173
+Il2CppGenericComDefinitions26.cpp	173
+Il2CppGenericComDefinitions27.cpp	173
+Il2CppGenericComDefinitions28.cpp	173
+Il2CppGenericComDefinitions3.cpp	173
+Il2CppGenericComDefinitions4.cpp	173
+Il2CppGenericComDefinitions5.cpp	173
+Il2CppGenericComDefinitions6.cpp	173
+Il2CppGenericComDefinitions7.cpp	173
+Il2CppGenericComDefinitions8.cpp	173
+Il2CppGenericComDefinitions9.cpp	173
+Il2CppGenericMethodPointerTable.cpp	2513520
+Il2CppInteropDataTable.cpp	168848
+Il2CppInvokerTable.cpp	3874024
+Il2CppReversePInvokeWrapperTable.cpp	2456
+Mono.Security.cpp	140224
+Mono.Security_Attr.cpp	32922
+mscorlib.cpp	2234645
+mscorlib_Attr.cpp	870221
+mscorlib1.cpp	2234409
+mscorlib10.cpp	2264569
+mscorlib11.cpp	1556840
+mscorlib12.cpp	1656627
+mscorlib13.cpp	2201565
+mscorlib14.cpp	1950499
+mscorlib15.cpp	2009007
+mscorlib16.cpp	1715708
+mscorlib2.cpp	2096059
+mscorlib3.cpp	1644220
+mscorlib4.cpp	2146669
+mscorlib5.cpp	1980963
+mscorlib6.cpp	2162221
+mscorlib7.cpp	2060618
+mscorlib8.cpp	1821584
+mscorlib9.cpp	2337309
+System.Configuration.cpp	49703
+System.Configuration_Attr.cpp	47897
+System.Core.cpp	29376
+System.Core_Attr.cpp	83187
+System.cpp	1309639
+System.Xml.cpp	5666
+System.Xml_Attr.cpp	52406
+System_Attr.cpp	90972
+System1.cpp	1794335
+System2.cpp	621388
+Unity.ProBuilder.cpp	2065904
+Unity.ProBuilder.Examples.cpp	504001
+Unity.ProBuilder.Examples_Attr.cpp	35859
+Unity.ProBuilder.Poly2Tri.cpp	653688
+Unity.ProBuilder.Poly2Tri_Attr.cpp	56554
+Unity.ProBuilder_Attr.cpp	139941
+Unity.ProBuilder1.cpp	992153
+Unity.Timeline.cpp	2650406
+Unity.Timeline_Attr.cpp	272188
+Unity.Timeline1.cpp	439028
+UnityAdsInitializationListener.h	500
+UnityAdsLoadListener.h	545
+UnityAdsShowListener.h	950
+UnityEngine.AIModule.cpp	23322
+UnityEngine.AIModule_Attr.cpp	87879
+UnityEngine.AndroidJNIModule.cpp	586208
+UnityEngine.AndroidJNIModule_Attr.cpp	142236
+UnityEngine.AnimationModule.cpp	451533
+UnityEngine.AnimationModule_Attr.cpp	211591
+UnityEngine.AssetBundleModule.cpp	38424
+UnityEngine.AssetBundleModule_Attr.cpp	79675
+UnityEngine.AudioModule.cpp	199577
+UnityEngine.AudioModule_Attr.cpp	136946
+UnityEngine.CoreModule.cpp	2314238
+UnityEngine.CoreModule_Attr.cpp	1064425
+UnityEngine.CoreModule1.cpp	2010431
+UnityEngine.cpp	3258
+UnityEngine.DirectorModule.cpp	44854
+UnityEngine.DirectorModule_Attr.cpp	91886
+UnityEngine.GridModule.cpp	5237
+UnityEngine.GridModule_Attr.cpp	92818
+UnityEngine.ImageConversionModule.cpp	11827
+UnityEngine.ImageConversionModule_Attr.cpp	86902
+UnityEngine.IMGUIModule.cpp	792960
+UnityEngine.IMGUIModule_Attr.cpp	192927
+UnityEngine.InputLegacyModule.cpp	149951
+UnityEngine.InputLegacyModule_Attr.cpp	95794
+UnityEngine.InputModule.cpp	49811
+UnityEngine.InputModule_Attr.cpp	81210
+UnityEngine.ParticleSystemModule.cpp	108404
+UnityEngine.ParticleSystemModule_Attr.cpp	135587
+UnityEngine.Physics2DModule.cpp	175110
+UnityEngine.Physics2DModule_Attr.cpp	154623
+UnityEngine.PhysicsModule.cpp	171466
+UnityEngine.PhysicsModule_Attr.cpp	161772
+UnityEngine.SharedInternalsModule.cpp	175754
+UnityEngine.SharedInternalsModule_Attr.cpp	144874
+UnityEngine.SpriteShapeModule.cpp	4704
+UnityEngine.SpriteShapeModule_Attr.cpp	84161
+UnityEngine.SubsystemsModule.cpp	124886
+UnityEngine.SubsystemsModule_Attr.cpp	96872
+UnityEngine.SwitchModule.cpp	92238
+UnityEngine.SwitchModule_Attr.cpp	127809
+UnityEngine.TerrainModule.cpp	270521
+UnityEngine.TerrainModule_Attr.cpp	106222
+UnityEngine.TextRenderingModule.cpp	207347
+UnityEngine.TextRenderingModule_Attr.cpp	103285
+UnityEngine.TilemapModule.cpp	95182
+UnityEngine.TilemapModule_Attr.cpp	117431
+UnityEngine.UI.cpp	2329086
+UnityEngine.UI_Attr.cpp	342953
+UnityEngine.UI1.cpp	1523780
+UnityEngine.UI2.cpp	1863814
+UnityEngine.UI3.cpp	1446753
+UnityEngine.UIElementsNativeModule.cpp	105883
+UnityEngine.UIElementsNativeModule_Attr.cpp	99953
+UnityEngine.UIModule.cpp	220024
+UnityEngine.UIModule_Attr.cpp	121310
+UnityEngine.UnityWebRequestModule.cpp	60685
+UnityEngine.UnityWebRequestModule_Attr.cpp	78252
+UnityEngine.VFXModule.cpp	92911
+UnityEngine.VFXModule_Attr.cpp	126287
+UnityEngine.VideoModule.cpp	85955
+UnityEngine.VideoModule_Attr.cpp	113739
+UnityEngine.VRModule.cpp	18798
+UnityEngine.VRModule_Attr.cpp	81233
+UnityEngine.XRModule.cpp	259400
+UnityEngine.XRModule_Attr.cpp	146001
+UnityEngine_Attr.cpp	10954
+UnlinkedFunctions.cpp	330
+UnresolvedVirtualCallStubs.cpp	374326
+

@@ -1,0 +1,35 @@
+Linker flags: -lC:\Users\eitel\Desktop\Recherche Projet Bachelor\Projet_Bachelor\Temp\StagingArea\NativePlugins\NintendoSDKPlugin.a -n"C:\Users\eitel\Desktop\Recherche Projet Bachelor\Projet_Bachelor\Temp\StagingArea\Application.aarch64.lp64.nmeta
+Linking with:
+-nostartfiles
+-Wl,--gc-sections
+-Wl,-init=_init,-fini=_fini
+-Wl,-z,combreloc,-z,relro,--enable-new-dtags
+-Wl,-pie
+-Wl,--build-id=uuid
+-Wl,-u,malloc -Wl,-u,calloc -Wl,-u,realloc -Wl,-u,aligned_alloc -Wl,-u,free
+-v
+"-Wl,-T" "C:\Nintendo\Unity_Switch_2020.3.11\NintendoSDK\Resources\SpecFiles\Application.aarch64.lp64.ldscript"
+-fuse-ld=lld.exe
+-Wl,--dynamic-list=C:\Nintendo\Unity_Switch_2020.3.11\NintendoSDK\Resources\SpecFiles\ExportDynamicSymbol.lst
+-Wl,--start-group 
+"C:\Nintendo\Unity_Switch_2020.3.11\NintendoSDK\Libraries\NX-NXFP2-a64\Release\rocrt.o" 
+"C:\Nintendo\Unity_Switch_2020.3.11\NintendoSDK\Libraries\NX-NXFP2-a64\Release\nnApplication.o" 
+@"C:\Users\eitel\AppData\Local\Temp\tmpC455.tmp"
+"C:\Program Files\Unity\2020.3.11f1\Editor\Data\PlaybackEngines\Switch\Native\release\baselib.a"
+"C:\Program Files\Unity\2020.3.11f1\Editor\Data\PlaybackEngines\Switch\Tools\../Native/Release/SwitchPlayer.a"
+"C:\Nintendo\Unity_Switch_2020.3.11\NintendoSDK\Libraries\NX-NXFP2-a64\Release\libnn_init_memory.a" 
+"C:\Nintendo\Unity_Switch_2020.3.11\NintendoSDK\Libraries\NX-NXFP2-a64\Release\libnn_gfx.a" 
+"C:\Nintendo\Unity_Switch_2020.3.11\NintendoSDK\Libraries\NX-NXFP2-a64\Release\libnn_mii_draw.a" 
+"C:\Nintendo\Unity_Switch_2020.3.11\NintendoSDK\Libraries\NX-NXFP2-a64\Release\libnn_gfx.a" 
+"C:\Nintendo\Unity_Switch_2020.3.11\NintendoSDK\Libraries\NX-NXFP2-a64\Release\libnn_mii_draw.a" 
+"C:\Nintendo\Unity_Switch_2020.3.11\NintendoSDK\Libraries\NX-NXFP2-a64\Release\libcurl.a" 
+"C:\Nintendo\Unity_Switch_2020.3.11\NintendoSDK\Libraries\NX-NXFP2-a64\Release\libz.a" 
+"C:\Users\eitel\Desktop\Recherche Projet Bachelor\Projet_Bachelor\Temp\StagingArea\NativePlugins\NintendoSDKPlugin.a"
+-Wl,--end-group 
+-Wl,--start-group 
+"C:\Nintendo\Unity_Switch_2020.3.11\NintendoSDK\Libraries\NX-NXFP2-a64\Release\multimedia.nss" 
+"C:\Nintendo\Unity_Switch_2020.3.11\NintendoSDK\Libraries\NX-NXFP2-a64\Release\nnSdk.nss" 
+-Wl,--end-group 
+C:\Nintendo\Unity_Switch_2020.3.11\NintendoSDK\Libraries\NX-NXFP2-a64\Release\crtend.o
+-o
+"C:\Users\eitel\Desktop\Recherche Projet Bachelor\Projet_Bachelor\SwitchIL2CPPCache\il2cpp_cache\linkresult_738B1B7CAD8F086DF8963E60F555B0A8\SwitchPlayer.nss"
